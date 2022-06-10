@@ -1,0 +1,27 @@
+windows
+- cd   /   (navegar entre as pastas) (usar dois pontos para retroceder "..")
+
+- dir   (para listar)
+
+- mkdir (para criar pasta)
+
+- del  (deleta tudo na pasta menos a pasta)
+
+- rmdir *diretorio* /s /q  (Remove o diretório)
+
+- cls (limpa o terminal)
+
+- echo hello > hello.txt (cria o arquivo)
+
+- mv arquivo ./diretorio (para mover)
+
+
+Unix
+- cd
+- ls -a (a flag -a lista arquivos ocultos)
+- mkdir
+- rm -rf
+- clear
+
+
+

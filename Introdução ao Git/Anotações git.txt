@@ -1,0 +1,14 @@
+git init (cria o repositório)
+
+git add "nome do arquivo
+git add . ou * (para adicionar a stage tudo)
+
+git commit -m "mensagem do commit"
+
+git push origin master (para empurrar o arquivo para o github)
+
+git pull origin master (para consertar erro como  mergin)
+
+git clone "url" (para clonar repositório)
+
+git remote -v (lista os repositórios remotos)
