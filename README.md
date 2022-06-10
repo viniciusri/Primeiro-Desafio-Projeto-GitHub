@@ -1,2 +1,5 @@
-# Primeiro-Desafio-Projeto-GitHub
-Primeiro Desafio de Projeto Github da DIO
+# Primeiro Desafio de Projeto Git/GitHub
+### Este é o meu primeiro Desafio de Projeto da DIO referente a Introdução do Git/Github.
+
+Neste repositório contem as minha anotações em relação ao curso de Introdução ao Git/Github.
+
